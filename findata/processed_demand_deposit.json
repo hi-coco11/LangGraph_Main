@@ -21,7 +21,7 @@
         "기타 유의사항": "해당없음",
         "최고한도": "정보 없음",
         "key_summary": "은행: KDB산업은행, 상품명: KDB Hi 입출금통장, 기본금리( %): 1.8, 최고금리(우대금리포함,  %): 1.8",
-        "pdf_link": "http://localhost:8000/pdf/demand_deposit/산업_Hi_입출금통장.pdf"
+        "pdf_link": "http://localhost:8000/pdf/demand_deposit/산업/산업_Hi_입출금통장.pdf"
       }
     },
     {

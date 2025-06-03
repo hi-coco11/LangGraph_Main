@@ -1,0 +1,7 @@
+digraph {
+	analyze_question
+	web_search
+	filter_documents
+	analyze_question -> web_search
+	web_search -> filter_documents
+}
